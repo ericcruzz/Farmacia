@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Inventario>
+	<Opciones>
+		<Opcion Url="/Default.aspx?Id=0" Texto="Home" Id="0"/>
+		<Opcion Url="/Default.aspx?Id=1" Texto="Productos" Id="1"/>
+		<Opcion Url="/Default.aspx?Id=2" Texto="Contacto" Id="2"/>
+		<Opcion Url="/Default.aspx?Id=3" Texto="Tips de ayuda" Id="3"/>
+	</Opciones>
+	<Productos>
+		<Categoria Nombre="Medicamento">
+			<Producto Nombre="Paracetamol" Orden="1">
+				<Descripcion>
+					<![CDATA[ Es un analgésico y antipirético eficaz para el control del dolor leve o moderado causado 
+					por afecciones articulares, otalgias, etc. ]]>
+				</Descripcion>
+				<Precio>$65.00</Precio>
+				<Imagen>/img/01.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Ibuprofeno" Orden="2">
+				<Descripcion>
+				<![CDATA[ Se utiliza para reducir la fiebre y aliviar los dolores menores por de cefalea, dolor muscular,
+				artritis, periodos menstruales, resfriado común, dolor de muelas y dolor de espalda. ]]>
+				</Descripcion>
+				<Precio>$90.00</Precio>
+				<Imagen>/img/02.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Naproxeno" Orden="3">
+				<Descripcion>
+					<![CDATA[ Medicamento antiinflamatorio no esteroideo que se emplea en el tratamiento del dolor leve a 
+					moderado, la fiebre, la inflamación y la rigidez provocados por afecciones como artrosis, artritis psoriásica, 
+					espondilitis anquilosante, tendinitis y bursitis. ]]>
+				</Descripcion>
+				<Precio>$75.00</Precio>
+				<Imagen>/img/03.jpeg</Imagen>
+			</Producto>
+			<Producto Nombre="Aspirinas de 40 Tabletas " Orden="4">
+				<Descripcion>
+					<![CDATA[ Aspirina Caja con 40 tabletas. Alivio de dolor de cabeza, de muelas, oídos, fiebre y reumatismo así 
+					como algunas molestias del resfriado común. ]]>
+				</Descripcion>
+				<Precio>$40.00</Precio>
+				<Imagen>/img/04.jpeg</Imagen>
+			</Producto>
+		</Categoria>
+		<Categoria Nombre="HigienePersonal">
+			<Producto Nombre="Spray Nivea" Orden="1">
+				<Descripcion>
+					<![CDATA[ Desodorante que ayudar a proteger tu ropa de las manchas. Ofrece protección contra las manchas 
+					blancas en tu ropa negra y contra las manchas amarillas en tu ropa blanca ]]>
+				</Descripcion>
+				<Precio>$61.50</Precio>
+				<Imagen>/img/11.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Pasta Dental Colgate Luminous White Instant" Orden="2">
+				<Descripcion>
+					<![CDATA[ Su innovadora tecnología ahora combina abrillantadores ópticos para blanquear los dientes 
+					instantáneamente. Cepilla tus dientes y verás los resultados de inmediato. ]]>
+				</Descripcion>
+				<Precio>$56.00</Precio>
+				<Imagen>/img/12.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Talco Ting Polvo" Orden="3">
+				<Descripcion>
+					<![CDATA[ Ayuda a eliminar la sudoración, mal olor, comezón, ardor, comezón. ]]>
+				</Descripcion>
+				<Precio>$130.91</Precio>
+				<Imagen>/img/13.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Colgate 360° Luminous White" Orden="4">
+				<Descripcion>
+					<![CDATA[ Cepillo de dientes Colgate 3 pzas. Cuenta con copas blanqueadoras que te ayudan a tener una sonrisa más brillante. ]]>
+				</Descripcion>
+				<Precio>$100.00</Precio>
+				<Imagen>/img/14.jpg</Imagen>
+			</Producto>
+		</Categoria>
+		<Categoria Nombre="Curaciones">
+			<Producto Nombre="Alcohol etílico Protec desnaturalizado" Orden="1">
+				<Descripcion>
+					<![CDATA[ Complementa tu botiquín de primeros auxilios con el alcohol etílico desnaturalizado Protec 
+					en su presentación en botella de 250 ml. ]]>
+				</Descripcion>
+				<Precio>$24.00</Precio>
+				<Imagen>/img/21.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Venditas Transpiel Curitas" Orden="2">
+				<Descripcion>
+					<![CDATA[ Contiene 30 pzas. Cubre y protege heridas menores como raspones cortes y rasguños. Repelente al agua 
+					y suciedad. Deja respirar la herida.]]>
+				</Descripcion>
+				<Precio>$37.00</Precio>
+				<Imagen>/img/22.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Bolitas de Algodón Dalux." Orden="3">
+				<Descripcion>
+					<![CDATA[ Contiene 100 Bolitas. Suaves, resistentes y absorbentes.]]>
+				</Descripcion>
+				<Precio>$36.60</Precio>
+				<Imagen>/img/23.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Gasa Le Roy Premium" Orden="4">
+				<Descripcion>
+					<![CDATA[ Gasa seca cortada de algodón 100% de 10cm x 10cm. Contiene 10 piezas + 1 Venda. ]]>
+				</Descripcion>
+				<Precio>$55.90</Precio>
+				<Imagen>/img/24.jpg</Imagen>
+			</Producto>
+		</Categoria>
+		<Categoria Nombre="Dermocosmeticos">
+			<Producto Nombre="Pond's Crema Facial Anti-manchas" Orden="1">
+				<Descripcion>
+					<![CDATA[ Crema anti-manchas, para un acabado mate y con tono uniforme. ]]>
+				</Descripcion>
+				<Precio>$72.00</Precio>
+				<Imagen>/img/31.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="BioBásica Eudérmica Locion en Spray" Orden="2">
+				<Descripcion>
+					<![CDATA[ Bio Básica loción. Ideal para pieles sensibles. Producto de limpieza facial, 
+					humecta, nutre y equilibra sin dejar sensación grasosa en el rostro.]]>
+				</Descripcion>
+				<Precio>$434.50</Precio>
+				<Imagen>/img/32.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Meladermic Night Crema Facial Despigmentante" Orden="3">
+				<Descripcion>
+					<![CDATA[ Tratamiento dermatológico para despigmentar manchas, paño y cicatrices. ]]>
+				</Descripcion>
+				<Precio>$607.00</Precio>
+				<Imagen>/img/33.jpg</Imagen>
+			</Producto>
+			<Producto Nombre="Cetaphil Crema Hidratante" Orden="4">
+				<Descripcion>
+					<![CDATA[ Hidrata las zonas más secas del cuerpo, como codos, rodillas y talones. 
+					Mejora su aspecto y deja una sensación suave.  ]]>
+				</Descripcion>
+				<Precio>$489.00</Precio>
+				<Imagen>/img/34.jpg</Imagen>
+			</Producto>
+		</Categoria>
+	</Productos>
+	<Datos>
+		<NombreFarmacia>FarmaGil</NombreFarmacia>
+		<Descripcion>
+			<![CDATA[Somos la mejor farmacia que te brindará los mejores productos para tu salud 
+					y el bienestar para tu familia. Te ofreceremos la mejor atención y precios preferibles. ]]>
+		</Descripcion>
+		<Direccion>Manzana 015, Santa María del Llano, Ixtlahuaca, Méx. C.P. 50774.</Direccion>
+		<Telefono>712-353-4563</Telefono>
+		<CorreoElectronico>farmaGil@gmail.com</CorreoElectronico>
+		<Imagen>/img/Fachada.png</Imagen>
+		<Eslogan>
+			<Frase>En FarmaGil queremos cuidar de tu salud</Frase>
+			<Descripcion>Te ofrecemos los mejores productos de acuerdo a tu necesidad y los mejores precios para tu bolsillo.</Descripcion>
+		</Eslogan>
+		<Ubicacion>
+			<Latitud>19.637699</Latitud>
+			<Longitud>-99.731771</Longitud>
+		</Ubicacion>
+	</Datos>
+</Inventario>
